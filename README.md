@@ -3,6 +3,7 @@
 Tuli is a traditional Indian word for a paintbrush, representing the idea of expressing thoughts visually.
 ![TULI Logo](images/LogoTuli.png)
 
+
 ## Tuli for Models
 
 Tuli for Models is a simple framework for giving AI models the ability to draw, visualize, and explain ideas through visuals.
