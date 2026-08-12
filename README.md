@@ -1,6 +1,7 @@
 # Tuli
 
 Tuli is a traditional Indian word for a paintbrush, representing the idea of expressing thoughts visually.
+![TULI Logo](images/tuli.png)
 
 ## Tuli for Models
 
